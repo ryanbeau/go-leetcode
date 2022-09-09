@@ -13,6 +13,7 @@ func TestMinWindow(t *testing.T) {
 		expected string
 	}{
 		{input_s: "ADOBECODEBANC", input_t: "ABC", expected: "BANC"},
+		{input_s: "ABCDEFGHIJKLMNO", input_t: "HAL", expected: "ABCDEFGHIJKL"},
 		{input_s: "a", input_t: "a", expected: "a"},
 		{input_s: "a", input_t: "aa", expected: ""},
 	}
