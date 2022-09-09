@@ -14,7 +14,7 @@ func encode(s []string) string {
 
 func decode(s string) []string {
 	l := 0
-	var v []string
+	v := []string{}
 	for i := 0; i < len(s); i++ {
 		if s[i] == ')' {
 			c, err := strconv.Atoi(s[l : l+i-l])
