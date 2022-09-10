@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-10 / 75
+11 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -14,4 +14,5 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [🔗Link](141-linked-list-cycle) |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟠 Medium | Linked List | [🔗Link](143-reorder-list) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [🔗Link](206-reverse-linked-list) |
+| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟠 Medium | Tries | [🔗Link](208-implement-trie-prefix-tree) |
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟠 Medium | Arrays & Hashing | [🔗Link](271-encode-and-decode-strings) |
