@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-18 / 75
+19 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -21,5 +21,6 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 🟠 Medium | Tries | [🔗Link](211-design-add-and-search-words-data-structure) |
 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard | Tries | [🔗Link](212-word-search-ii) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | Trees | [🔗Link](226-invert-binary-tree) |
+| [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟠 Medium | Trees | [🔗Link](235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟠 Medium | Arrays & Hashing | [🔗Link](271-encode-and-decode-strings) |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | Trees | [🔗Link](572-subtree-of-another-tree) |
