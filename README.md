@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-15 / 75
+16 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -11,6 +11,7 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟠 Medium | Binary Search | [🔗Link](033-search-in-rotated-sorted-array) |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | Sliding Window | [🔗Link](076-minimum-window-substring) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | 🟠 Medium | Backtracking | [🔗Link](079-word-search) |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Trees | [🔗Link](104-maximum-depth-of-binary-tree) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🔴 Hard | Arrays & Hashing | [🔗Link](128-longest-consecutive-sequence) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [🔗Link](141-linked-list-cycle) |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟠 Medium | Linked List | [🔗Link](143-reorder-list) |
