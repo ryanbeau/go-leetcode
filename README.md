@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-14 / 75
+15 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -18,4 +18,5 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟠 Medium | Tries | [🔗Link](208-implement-trie-prefix-tree) |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 🟠 Medium | Tries | [🔗Link](211-design-add-and-search-words-data-structure) |
 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard | Tries | [🔗Link](212-word-search-ii) |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | Trees | [🔗Link](226-invert-binary-tree) |
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟠 Medium | Arrays & Hashing | [🔗Link](271-encode-and-decode-strings) |
