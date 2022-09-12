@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-20 / 75
+21 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -11,6 +11,7 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟠 Medium | Binary Search | [🔗Link](033-search-in-rotated-sorted-array) |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | Sliding Window | [🔗Link](076-minimum-window-substring) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | 🟠 Medium | Backtracking | [🔗Link](079-word-search) |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟠 Medium | Trees | [🔗Link](098-validate-binary-search-tree) |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | Trees | [🔗Link](100-same-tree) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟠 Medium | Trees | [🔗Link](102-binary-tree-level-order-traversal) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Trees | [🔗Link](104-maximum-depth-of-binary-tree) |
