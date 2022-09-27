@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-23 / 75
+24 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟠 Medium | Trees | [🔗Link](102-binary-tree-level-order-traversal) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Trees | [🔗Link](104-maximum-depth-of-binary-tree) |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟠 Medium | Trees | [🔗Link](105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | Trees | [🔗Link](124-binary-tree-maximum-path-sum) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🔴 Hard | Arrays & Hashing | [🔗Link](128-longest-consecutive-sequence) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [🔗Link](141-linked-list-cycle) |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟠 Medium | Linked List | [🔗Link](143-reorder-list) |
