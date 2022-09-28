@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-24 / 75
+25 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -28,4 +28,5 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟠 Medium | Trees | [🔗Link](230-kth-smallest-element-in-a-bst) |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟠 Medium | Trees | [🔗Link](235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | 🟠 Medium | Arrays & Hashing | [🔗Link](271-encode-and-decode-strings) |
+| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | Trees | [🔗Link](297-serialize-and-deserialize-binary-tree) |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | Trees | [🔗Link](572-subtree-of-another-tree) |
