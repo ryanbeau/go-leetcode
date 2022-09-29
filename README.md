@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-26 / 75
+27 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -9,6 +9,7 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | Linked List | [🔗Link](021-merge-two-sorted-lists) |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | Linked List | [🔗Link](023-merge-k-sorted-lists) |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟠 Medium | Binary Search | [🔗Link](033-search-in-rotated-sorted-array) |
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟠 Medium | Heap / Priority Queue | [🔗Link](39-combination-sum) |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | Sliding Window | [🔗Link](076-minimum-window-substring) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | 🟠 Medium | Backtracking | [🔗Link](079-word-search) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟠 Medium | Trees | [🔗Link](098-validate-binary-search-tree) |
