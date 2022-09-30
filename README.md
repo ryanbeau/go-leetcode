@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-27 / 75
+28 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -21,6 +21,7 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🔴 Hard | Arrays & Hashing | [🔗Link](128-longest-consecutive-sequence) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [🔗Link](141-linked-list-cycle) |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟠 Medium | Linked List | [🔗Link](143-reorder-list) |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟠 Medium | Graphs | [🔗Link](200-number-of-islands) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [🔗Link](206-reverse-linked-list) |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟠 Medium | Tries | [🔗Link](208-implement-trie-prefix-tree) |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 🟠 Medium | Tries | [🔗Link](211-design-add-and-search-words-data-structure) |
