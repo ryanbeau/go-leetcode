@@ -1,7 +1,7 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-31 / 75
+32 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
@@ -17,6 +17,7 @@ Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-dis
 | [🟠 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Trees | [🔗Link](102-binary-tree-level-order-traversal) |
 | [🟢 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Trees | [🔗Link](104-maximum-depth-of-binary-tree) |
 | [🟠 105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Trees | [🔗Link](105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [🟢 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Sliding Window | [🔗Link](121-best-time-to-buy-and-sell-stock) |
 | [🔴 124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | Trees | [🔗Link](124-binary-tree-maximum-path-sum) |
 | [🔴 128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard | Arrays & Hashing | [🔗Link](128-longest-consecutive-sequence) |
 | [🟠 133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Graphs | [🔗Link](133-clone-graph) |
