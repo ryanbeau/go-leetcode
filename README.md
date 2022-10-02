@@ -1,10 +1,11 @@
 # LeetCode Blind 75 Solutions
 Solutions to the blind 75 [on LeetCode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
 
-32 / 75
+33 / 75
 
 | Problem | Difficulty | Type | Solution |
 | --- | --- | --- | --- |
+| [🟢 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Easy | Sliding Window | [🔗Link](003-longest-substring-without-repeating-characters) |
 | [🟠 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Linked List | [🔗Link](019-remove-nth-node-from-end-of-list) |
 | [🟢 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List | [🔗Link](021-merge-two-sorted-lists) |
 | [🔴 23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List | [🔗Link](023-merge-k-sorted-lists) |
